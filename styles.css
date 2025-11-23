@@ -1,0 +1,96 @@
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif,
+    Verdana, sans-serif;
+  direction: ltr;
+  background-color: #f0f0f0;
+  margin: 50px;
+  font-size: 14px;
+}
+
+h1 {
+  color: #003366;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  color: #000000;
+}
+
+.menu-table {
+  margin: 30px auto;
+  border-collapse: collapse;
+}
+
+.menu-table td {
+  border: 1px solid #999999;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+.menu-table a {
+  text-decoration: none;
+  color: #003366;
+  font-weight: bold;
+}
+
+.menu-table a:hover {
+  text-decoration: underline;
+}
+
+.map-table {
+  margin: 20px auto;
+}
+
+.map-image {
+  width: 650px;
+  height: auto;
+  border: 1px solid #666666;
+}
+
+.place-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #ffffff;
+}
+
+.place-table td {
+  vertical-align: top;
+  padding: 15px;
+  border: 1px solid #cccccc;
+}
+
+.place-text {
+  width: 60%;
+}
+
+.place-images {
+  width: 40%;
+  text-align: center;
+}
+
+.place-image {
+  width: 90%;
+  height: auto;
+  margin-bottom: 10px;
+  border: 1px solid #999999;
+}
+
+.back-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.button-back {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: #ffffff;
+  text-decoration: none;
+  border: 1px solid #333333;
+  font-weight: bold;
+}
+
+.button-back:hover {
+  background-color: #45a049;
+}
