@@ -4,4 +4,4 @@ This project is a simple multi-page website built with basic **HTML** and **CSS*
 The main page lists five places around the Afeka campus, and each place has its own page with a short description and an image.  
 Every inner page includes a button to return to the main page.
 
-Link for the website: http://127.0.0.1:5500/index.html
+Link for the website: https://keronell.github.io/Afeka-Pavlyuk-/
